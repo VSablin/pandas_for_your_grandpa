@@ -1,4 +1,4 @@
-# In this script, we go through lesson 2.3 of Python Pandas for your
+# In this script, we go through lesson 2.5 of Python Pandas for your
 # Grandpa course: Series Apply. Web link here:
 # https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa-series-apply/
 
