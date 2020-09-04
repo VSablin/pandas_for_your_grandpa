@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 # %% Overwriting with iloc
-foo=pd.Series(['a', 'b', 'c', 'd', 'e'], index=[10, 40, 50, 30, 20])
+foo = pd.Series(['a', 'b', 'c', 'd', 'e'], index=[10, 40, 50, 30, 20])
 # We can use iloc to replace an element:
 foo.iloc[1] = 'w'
 print(foo)
@@ -20,7 +20,7 @@ print(foo)
 
 # %% Overwriting with loc
 # We can do the same with loc:
-foo=pd.Series(['a', 'b', 'c', 'd', 'e'], index=[10, 40, 50, 30, 20])
+foo = pd.Series(['a', 'b', 'c', 'd', 'e'], index=[10, 40, 50, 30, 20])
 foo.loc[40] = 'w'
 foo.loc[[10, 40, 50]] = 'x'
 foo.loc[10:50] = 'x'
