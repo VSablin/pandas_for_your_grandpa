@@ -3,7 +3,6 @@
 # https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa-series-concatenation/
 
 # %% Import libraries
-import numpy as np
 import pandas as pd
 
 # %% Index type
