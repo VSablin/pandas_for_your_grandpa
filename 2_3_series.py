@@ -1,3 +1,7 @@
+# In this script, we go through lesson 2.3 of Python Pandas for your
+# Grandpa course: Series Basic Indexing. Web link here:
+# https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa-series-basic-indexing/
+
 # %% Import libraries
 import numpy as np
 import pandas as pd
