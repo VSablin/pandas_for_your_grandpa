@@ -3,7 +3,6 @@
 # https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa-series-boolean-indexing/
 
 # %% Import libraries
-import numpy as np
 import pandas as pd
 
 # %% Boolean Indexing:
